@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PT6_Intent_act</string>
+    <string-array name="gender_array">
+        <item>Pilih jenis kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
